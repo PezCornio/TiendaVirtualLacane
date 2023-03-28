@@ -1,11 +1,7 @@
 .banner {
     text-align: center;
-    background-color: indigo;
+    background-color: #176087;
     
     
 }
 
-.banner__titulo {
-    font-family: 'Montserrat Subrayada', sans-serif;;
-    color: blanchedalmond;
-}

@@ -1,3 +1,9 @@
-.carousel-item {
-    width: 75%;
+
+
+.card {
+    height: 50px;
+}
+
+.control__carousel {
+    color: #132e32;
 }
